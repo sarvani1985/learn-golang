@@ -4,7 +4,7 @@ Learning go lang from multiple sources
 
 ## Reference(s)
 
-> 1. <https://go.dev/tour/welcome/1>
+>https://go.dev/tour/welcome/1 
 
 ## Daily Progams
 
