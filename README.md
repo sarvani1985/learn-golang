@@ -45,3 +45,20 @@ go mod init dayx
 
 ```powershell
 go run .
+
+
+
+create a folder in src
+create a folder dayx in src
+click the right mouse on the folder to open integrated termial or ctrl+tilda.
+create a module called "go mod init dayx"
+create a file name with the program
+go to the link and copy the program 
+to copy type ctrl+c ,to select the full prgm ctrl+A, to save the program  ctrl+s.
+run the"go run ."
+after the execution of program open github desktop and check the repositary name or else click on the file menu and open go lang folder.
+write file name on summery if there are more than one file.
+commit to main and push to origin.
+go to chrome and press the refresh 
+ check the folder in github.sarvani1985 src 
+my dayx program is seen.
