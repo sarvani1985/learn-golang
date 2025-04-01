@@ -51,7 +51,7 @@ go run .
 create a folder in src
 create a folder dayx in src
 click the right mouse on the folder to open integrated termial or ctrl+tilda.
-create a module called  type this command"go mod init dayx"
+create a module called  type this command "go mod init dayx"
 create a file name with the program
 go to the link and copy the program 
 to copy type ctrl+c ,to select the full prgm ctrl+A, to save the program  ctrl+s.
